@@ -1,0 +1,124 @@
+ID Facetten;Descr Facetten;"Descr Facetten Absolventa ""department""";ID
+1;Agentur, Werbung, Marketing & PR;Public Relations;1
+;;Redaktion;2
+;;Webdesign;3
+;;Weiteres: Marketing, Medien & Grafik;4
+;;Eventmanagement;5
+;;Marketing Management / Marketing Assistenz;6
+;;Online-Marketing;7
+;;Design;8
+;;Architektur;9
+;;Kunst;10
+2;Aus- & Weiterbildung;Promotion;11
+;;Lehrkräfte / Coaching;12
+3;Automobilindustrie & Zulieferer;Automotive;13
+;;Fahrzeugtechnik;14
+;;Mechatronik;15
+4;Banken & Kreditwirtschaft;Banking;16
+;;Controlling & Finance;17
+;;Finanzberatung;18
+;;Weiteres: Finanzen;19
+5;Baugewerbe & -industrie;Bauwesen / Bautechnik;20
+6;Beratung (Consulting);Sales Consulting;21
+;;Business Development;22
+7;Beratung, Wirtschaftsprüfung & Recht;Controlling & Finance;23
+;;Rechnungswesen & Buchhaltung;24
+;;Jura;25
+;;Steuerrecht & Steuerberatung;26
+;;Wirtschaftsrecht;27
+;;Wirtschaftsprüfung / Unternehmensberatung;28
+;;Weiteres: Recht & Steuern;29
+;;Wirtschaftsmathematik;30
+8;Bildungsinstitutionen;Promotion;31
+;;Pädagogik;32
+;;Lehrkräfte / Coaching;33
+;;Forschung, Entwicklung (F&E);34
+9;Biotechnik;Biologie;35
+;;Forschung, Entwicklung (F&E);36
+10;Chemie- & Pharmaindustrie;Chemie;37
+;;Pharmaberater / Pharmareferent;38
+;;Pharma Consulting;39
+;;Pharma Vertrieb;40
+;;Weiteres: Naturwissenschaften & Pharma;41
+;;Forschung, Entwicklung (F&E);42
+;;Apotheker;43
+11;Dienstleistungen;Kundenbetreuung;44
+;;Kundenservice;45
+;;Call-Center;46
+12;Druck-, Papier & Verpackungsindustrie;Fertigungstechnik / Verfahrenstechnik;47
+13;Einzelhandel;Weiteres: Wirtschaft & Vertrieb;48
+14;Energie-, Wasserversorgung & Entsorgung;Energie- und Umwelttechnik;49
+15;Feinmechanik & Optik;Fertigungstechnik / Verfahrenstechnik;50
+16;Finanzdienstleistungen;Finanzberatung;51
+;;Weiteres: Finanzen;52
+17;Forschung & Wissenschaft;Forschung, Entwicklung (F&E);53
+18;Gesundheit & soziale Dienste;Pflegefachkräfte;54
+;;Weiteres: Medizin & Pflege;55
+;;Ärzte;56
+;;Praxismanagement;57
+19;Großhandel;Weiteres: Wirtschaft & Vertrieb;58
+20;Handwerk;Weiteres: Wirtschaft & Vertrieb;59
+21;Hotel, Gastronomie & Catering;Weiteres: Wirtschaft & Vertrieb;60
+;;Tourismus;61
+22;Immobilien;Weiteres: Wirtschaft & Vertrieb;62
+23;Ingenieurwesen;Technisches Qualitätsmanagement;63
+;;Weiteres: Ingenieurwesen & Technik;64
+;;Wirtschaftsingenieur;65
+;;Fertigungstechnik / Verfahrenstechnik;66
+;;Qualitätsmanagement;67
+24;IT & Internet;IT-Administration / IT-Support;68
+;;IT-Beratung;69
+;;IT-Management;70
+;;Webentwicklung;71
+;;Weiteres: IT & Development;72
+;;Qualitätssicherung & Testing;73
+;;Softwareentwicklung;74
+;;Embedded Systems;75
+;;Hardwareentwicklung;76
+;;Technisches Qualitätsmanagement;77
+;;Wirtschaftsinformatik;78
+;;Produktmanagement;79
+25;Konsumgüter & Gebrauchsgüter;Weiteres: Wirtschaft & Vertrieb;80
+;;Vertriebsmanagement;81
+;;Weiteres: Wirtschaft & Vertrieb;82
+;;Kundenbetreuung;83
+;;Direktvertrieb / Außendienst;84
+26;Kultur;Kultur;85
+27;Land-, Forst-, Fischwirtschaft & Gartenbau;Weiteres: Wirtschaft & Vertrieb;86
+28;Logistik, Verkehrs- & Transportwesen;Weiteres: Logistik;87
+;;Disposition;88
+;;Materialwirtschaft;89
+;;Supply Chain Management;90
+;;Beschaffungslogistik / Einkauf;91
+29;Luft- & Raumfahrt;Luft- und Raumfahrttechnik;92
+30;Maschinen- & Anlagenbau;Maschinenbau;93
+;;Produktionsmanagement / Produktionsassistenz;94
+;;Elektrotechnik;95
+;;Technisches Qualitätsmanagement;96
+;;Automatisierungstechnik;97
+;;Qualitätssicherung & Testing;98
+31;Medien (Presse, Film, Funk, TV, Verlage);Medieninformatik;99
+32;Medizintechnik;Weiteres: Medizin & Pflege;100
+;;Medizintechnik;101
+;;Ärzte;102
+33;Metallindustrie;Fertigungstechnik / Verfahrenstechnik;103
+34;Nahrungs- & Genussmittel;Weiteres: Wirtschaft & Vertrieb;104
+35;Öffentlicher Dienst & Behörden;Weiteres: Wirtschaft & Vertrieb;105
+36;Personaldienstleistung & -beratung;Personalberatung;106
+;;Personalentwicklung;107
+;;Personalmarketing;108
+;;Weiteres: Human Resources;109
+;;E-Recruiting;110
+37;Telekommunikation;IT-Administration / IT-Support;111
+38;Tourismus;Tourismus;112
+39;Verbände & Institutionen;Weiteres: Wirtschaft & Vertrieb;113
+40;Versicherungen;Versicherung;114
+41;Weitere Branchen (Default-Mapping);Mathematik;115
+;;Physik;116
+;;Psychologie;117
+;;Produktmanagement;118
+;;Lehrkräfte / Coaching;119
+;;Wirtschaft & Vertrieb;120
+;;Business Development;121
+;;Wirtschaftsmathematik;122
+;;Medieninformatik;123

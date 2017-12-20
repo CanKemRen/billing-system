@@ -1,0 +1,27 @@
+ID Facetten;Descr Facetten;Descr Facetten Hijobs;"ID Hijobs ""category"""
+1;Agentur, Werbung, Marketing & PR;Marketing & Kommunikation;12
+2;Aus- & Weiterbildung;Trainee / Traineeprogramm;22
+5;Baugewerbe & -industrie;Wartung / Instandhaltung;27
+6;Beratung (Consulting);Compliance / Auditierung / Prozesse;31
+;;Interne Unternehmensberatung - Inhouse Consulting;9
+;;Steuern;21
+;;Unternehmensentwicklung;25
+7;Beratung, Wirtschaftsprüfung & Recht;Recht;16
+;;Unternehmensentwicklung;25
+8;Bildungsinstitutionen;Wissenschaft;28
+11;Dienstleistungen;Design / Gestaltung / Planung;2
+13;Einzelhandel;Filialleitung / Store Management;13
+16;Finanzdienstleistungen;Finanzen / Rechnungswesen / Controlling;4
+17;Forschung & Wissenschaft;Forschung & Entwicklung;5
+;;Wissenschaft;28
+18;Gesundheit & soziale Dienste;Gesundheit, Pflege, Soziale Dienste;6
+22;Immobilien;Immobilien / Facility Management;8
+23;Ingenieurwesen;Qualitätsmanagement;15
+;;Design / Gestaltung / Planung;2
+;;Ingenieurwesen / Technik / Konstruktion;23
+24;IT & Internet;IT - EDV;10
+;;Produktmanagement;14
+25;Konsumgüter & Gebrauchsgüter;Vertrieb / Sales / Sales Support;26
+28;Logistik, Verkehrs- & Transportwesen;Logistik / Supply Chain Management / Versorgungsketten;20
+36;Personaldienstleistung & -beratung;Human Resources - Personal;7
+41;Weitere Branchen (Default-Mapping);Sonstige Abteilungen;18

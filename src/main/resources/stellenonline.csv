@@ -1,0 +1,50 @@
+ID Facetten;Descr Facetten;Descr Facetten stellenonline.de;ID stellenonline.de 
+1;Agentur, Werbung, Marketing & PR;Grafik, Design, Architektur;1
+;;Marketing, PR;2
+2;Aus- & Weiterbildung;Absolventen, Trainees;3
+;;Ausbildungsplätze;4
+;;Bildung, Weiterbildung, Soziales;5
+3;Automobilindustrie & Zulieferer;Transport, Verkehr;6
+4;Banken & Kreditwirtschaft;Banken, Versicherungen, Finanzdienstl.;7
+5;Baugewerbe & -industrie;Bau, Handwerk, Immobilien;8
+6;Beratung (Consulting);Rechnungswesen, Controlling;9
+;;Unternehmensberatung;10
+7;Beratung, Wirtschaftsprüfung & Recht;Qualitätswesen;11
+;;Rechnungswesen, Controlling;12
+;;Recht, Steuern, Wirtschaftsprüfung;13
+8;Bildungsinstitutionen;Bildung, Weiterbildung, Soziales;14
+9;Biotechnik;Forschung, Wissenschaften;15
+10;Chemie- & Pharmaindustrie;Medizin, Pharma, Pflege;16
+11;Dienstleistungen;Grafik, Design, Architektur;17
+12;Druck-, Papier & Verpackungsindustrie;Produktion, Fertigung;18
+13;Einzelhandel;Vertrieb/Verkauf;19
+14;Energie-, Wasserversorgung & Entsorgung;Service, Montage, Instandhaltung;20
+15;Feinmechanik & Optik;Produktion, Fertigung;21
+16;Finanzdienstleistungen;Banken, Versicherungen, Finanzdienstl.;22
+17;Forschung & Wissenschaft;Forschung, Wissenschaften;23
+18;Gesundheit & soziale Dienste;Bildung, Weiterbildung, Soziales;24
+19;Großhandel;Vertrieb/Verkauf;25
+20;Handwerk;Bau, Handwerk, Immobilien;26
+21;Hotel, Gastronomie & Catering;Hotellerie, Gastronomie;27
+22;Immobilien;Bau, Handwerk, Immobilien;28
+23;Ingenieurwesen;Ingenieur, Technik;29
+;;Planung, Konstruktion, Entwicklung;30
+;;Produktion, Fertigung;31
+24;IT & Internet;Grafik, Design, Architektur;32
+;;IT, Telekommunikation;33
+26;Kultur;Kunst, Kultur;35
+27;Land-, Forst-, Fischwirtschaft & Gartenbau;Land-, Forstwirtschaft, Umwelt;36
+28;Logistik, Verkehrs- & Transportwesen;Einkauf, Materialwirtschaft, Logistik;37
+;;Transport, Verkehr;38
+29;Luft- & Raumfahrt;Qualitätswesen;39
+30;Maschinen- & Anlagenbau;Planung, Konstruktion, Entwicklung;40
+;;Produktion, Fertigung;41
+;;Planung, Konstruktion, Entwicklung;42
+;;Qualitätswesen;43
+31;Medien (Presse, Film, Funk, TV, Verlage);Marketing, PR;44
+32;Medizintechnik;Medizin, Pharma, Pflege;45
+33;Metallindustrie;Produktion, Fertigung;46
+35;Öffentlicher Dienst & Behörden;Öffentlicher Dienst;48
+;;Sekretariat, Verwaltung, Organisation;49
+36;Personaldienstleistung & -beratung;Personal, HR;50
+41;Weitere Branchen (Default-Mapping);weitere Berufe;51

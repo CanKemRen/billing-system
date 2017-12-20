@@ -1,0 +1,56 @@
+﻿ID Facetten;Descr Facetten;Descr Jobware;ID Jobware
+1;Agentur, Werbung, Marketing & PR;Marketing, PR, Werbung;73
+2;Aus- & Weiterbildung;Trainee-Programme;161
+;;Bildung, Schulung, Training;2
+3;Automobilindustrie & Zulieferer;Fahrzeugbau, Zulieferer;272
+4;Banken & Kreditwirtschaft;Banken, Finanzdienstleistung;3
+5;Baugewerbe & -industrie;Techn. Entwicklung, Konstruktion;106
+6;Beratung;Management, Leitung;33
+;;Consulting, Beratung;5
+;;IT/TK Consulting, Vertrieb;275
+7;Beratung, Wirtschaftsprüfung & Recht;Consulting, Beratung;5
+8;Bildungsinstitutionen;Öffentlicher Dienst, Verwaltung;197
+9;Biotechnik;Pharma, Chemie, Med., Biotechn.;203
+10;Chemie- & Pharmaindustrie;Pharma, Chemie, Med., Biotechn.;203
+11;Dienstleistungen;IT/TK Softwareentwicklung;10
+12;Druck-, Papier & Verpackungsindustrie;Medien, Grafik, Design, Druck;82
+13;Einzelhandel;Organisation, Verwaltung, Büro;89
+14;Energie-, Wasserversorgung & Entsorgung;Energieerzeugung & Versorgung;315
+15;Feinmechanik & Optik;Techn. Entwicklung, Konstruktion;106
+16;Finanzdienstleistungen;Finanz-/Rechnungswesen;4
+17;Forschung & Wissenschaft;Forschung & Entwicklung;126
+18;Gesundheit & soziale Dienste;Gesundheits-/Sozialwesen;8
+19;Großhandel;Vertrieb, Verkauf, Handel;72
+20;Handwerk;Techn. Entwicklung, Konstruktion;106
+21;Hotel, Gastronomie & Catering;Gastgewerbe, Tourismus;44
+22;Immobilien;Immobilien, Bau, Finanzierung;131
+23;Ingenieurwesen;Einkauf, Beschaffung;78
+;;Techn. Entwicklung, Konstruktion;106
+;;Techn. Management, Projektplanung;229
+;;Technischer Vertrieb;279
+24;IT & Internet;IT/TK Consulting, Vertrieb;275
+;;IT/TK Hardwareentw., embed. Syst.;274
+;;IT/TK Netzwerke, Systeme;276
+;;IT/TK Softwareentwicklung;10
+25;Konsumgüter & Gebrauchsgüter;Ernährung, Lebensmittel, Agrar;38
+26;Kultur;Gastgewerbe, Tourismus;44
+27;Land-, Forst-, Fischwirtschaft & Gartenbau;Ernährung, Lebensmittel, Agrar;38
+28;Logistik, Verkehrs- & Transportwesen;Logistik, Materialwirtschaft;77
+29;Luft- & Raumfahrt;Einkauf, Beschaffung;78
+30;Maschinen- & Anlagenbau;Einkauf, Beschaffung;78
+;;Techn. Entwicklung, Konstruktion;106
+;;Techn. Management, Projektplanung;229
+;;Technischer Vertrieb;279
+31;Medien (Presse, Film, Funk, TV, Verlage);Medien, Grafik, Design, Druck;82
+32;Medizintechnik;Pharma, Chemie, Med., Biotechn.;203
+33;Metallindustrie;Techn. Entwicklung, Konstruktion;106
+;;Techn. Management, Projektplanung;229
+34;Nahrungs- & Genussmittel;Ernährung, Lebensmittel, Agrar;38
+35;Öffentlicher Dienst & Behörden;Öffentlicher Dienst, Verwaltung;197
+36;Personaldienstleistung & -beratung;Personalwesen;9
+37;Telekommunikation;IT/TK Consulting, Vertrieb;275
+;;IT/TK Netzwerke, Systeme;276
+38;Tourismus;Gastgewerbe, Tourismus;44
+39;Verbände & Institutionen;Öffentlicher Dienst, Verwaltung;197
+40;Versicherungen;Versicherungen;117
+41;Weitere Branchen (Default-Mapping);;

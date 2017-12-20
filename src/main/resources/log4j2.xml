@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Configuration status="info" name="billing system" monitorInterval="30"  shutdownHook="disable">
+	<Appenders>
+		<Console name="Console">
+			<PatternLayout pattern="%d{ABSOLUTE} %p [%X{X-B3-TraceId},%X{X-B3-SpanId}] [%t] %c - %m%n" />
+		</Console>
+	</Appenders>
+	
+	<Loggers>
+		<Logger name="de.personalmarkt" level="debug" />
+		<Logger name="org.springframework" level="info" />
+		<Logger name="org.springframework.transaction.support.TransactionSynchronizationManager" level="error" />
+		<!--
+		##############################################################################
+		# CAUTION: Warnings in CglibAopProxy informs us about calls to methods       #
+		#          that gets routed directly to the proxy. But when we checked all   #
+		#          warnings we could disable them by setting the log level to ERROR. #
+		############################################################################## 
+		 -->
+		<Logger name="org.springframework.aop.framework.CglibAopProxy" level="error" />
+		<Root level="info">
+			<AppenderRef ref="Console" />
+		</Root>
+	</Loggers>
+</Configuration>

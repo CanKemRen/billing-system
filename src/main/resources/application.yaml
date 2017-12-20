@@ -1,0 +1,11 @@
+spring:
+  datasource:
+    url: jdbc:postgresql://localhost:5432/pmsg_dev
+    username: pmsg_webuser
+    password: CVNWqK7VeNsdPJud
+
+logging:
+  config: classpath:log4j2.xml
+server:
+  port: 8999
+

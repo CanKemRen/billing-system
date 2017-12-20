@@ -1,0 +1,57 @@
+﻿ID Facetten;Descr Facetten;Descr StepStone ;ID StepStone
+1;Agentur, Werbung, Marketing & PR;Agentur, Werbung, Marketing & PR;24000
+2;Aus- & Weiterbildung;Bildung & Training;28000
+3;Automobilindustrie & Zulieferer;Fahrzeugbau & -zulieferer;10000
+;;Maschinen- & Anlagenbau;12004
+;;Sonstiges produzierendes Gewerbe;12006
+4;Banken & Kreditwirtschaft;Banken;19001
+;;Finanzdienstleister;19002
+5;Baugewerbe & -industrie;Baugewerbe & -industrie;14001
+;;Bergbau;2000
+6;Beratung;Finanzdienstleister;19002
+;;Bildung & Training;28000
+;;IT & Internet;21000
+;;Unternehmensberatg., Wirtschaftsprüfg. & Recht;23000
+7;Beratung, Wirtschaftsprüfung & Recht;Unternehmensberatg., Wirtschaftsprüfg. & Recht;23000
+8;Bildungsinstitutionen;Öffentlicher Dienst & Verbände;27000
+9;Biotechnik;Medizintechnik;32000
+;;Maschinen- & Anlagenbau;12004
+10;Chemie- & Pharmaindustrie;Chemie- & Erdölverarbeitende Industrie;7000
+;;Pharmaindustrie;8000
+11;Dienstleistungen;Sonstige Dienstleistungen;26000
+12;Druck-, Papier & Verpackungsindustrie;Druck-, Papier & Verpackungsindustrie;12002
+;;Sonstiges produzierendes Gewerbe;12006
+13;Einzelhandel;Groß- & Einzelhandel;15000
+14;Energie-, Wasserversorgung & Entsorgung;Energie-, Wasserversorgung & Entsorgung;13000
+15;Feinmechanik & Optik;Elektrotechnik, Feinmechanik & Optik;12005
+16;Finanzdienstleistungen;Finanzdienstleister;19002
+17;Forschung & Wissenschaft;Wissenschaft & Forschung;22000
+18;Gesundheit & soziale Dienste;Gesundheit & soziale Dienste;29000
+19;Großhandel;Groß- & Einzelhandel;15000
+20;Handwerk;Handwerk;14002
+;;Holz- & Möbelindustrie;12001
+;;Glas-, Keramik-Herstellung & -verarbeitung;12003
+;;Sonstiges produzierendes Gewerbe;12006
+21;Hotel, Gastronomie & Catering;Hotel, Gastronomie & Catering;16000
+22;Immobilien;Immobilien;20000
+23;Ingenieurwesen;Maschinen- & Anlagenbau;12004
+24;IT & Internet;IT & Internet;21000
+25;Konsumgüter & Gebrauchsgüter;Konsumgüter & Gebrauchsgüter;11000
+;;Textilien, Bekleidung & Lederwaren;4000
+26;Kultur;Freizeit, Touristik, Kultur & Sport;30000
+27;Land-, Forst-, Fischwirtschaft & Gartenbau;Land-, Forst-, Fischwirtschaft & Gartenbau;1000
+28;Logistik, Verkehrs- & Transportwesen;Transport & Logistik;17000
+29;Luft- & Raumfahrt;Luft- & Raumfahrt;10002
+30;Maschinen- & Anlagenbau;Maschinen- & Anlagenbau;12004
+31;Medien (Presse, Film, Funk, TV, Verlage);Medien (Film, Funk, TV, Verlage);6000
+32;Medizintechnik;Medizintechnik;32000
+;;Pharmaindustrie;8000
+33;Metallindustrie;Metallindustrie;9000
+34;Nahrungs- & Genussmittel;Nahrungs- & Genussmittel;3000
+35;Öffentlicher Dienst & Behörden;Öffentlicher Dienst & Verbände;27000
+36;Personaldienstleistung & -beratung;Personaldienstleistungen;25000
+37;Telekommunikation;Telekommunikation;18000
+38;Tourismus;Freizeit, Touristik, Kultur & Sport;30000
+39;Verbände & Institutionen;Öffentlicher Dienst & Verbände;27000
+40;Versicherungen;Versicherungen;19003
+41;Weitere Branchen (Default-Mapping);Sonstige Branchen;31000

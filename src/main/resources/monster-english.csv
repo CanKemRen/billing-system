@@ -1,0 +1,56 @@
+﻿ID;Value - english;Value - german;test
+0;All;Alle;0
+1;Agriculture/Forestry/Fishing;Land-/Forstwirtschaft/Fischerei;0
+2;Metals and Minerals;Bergbau/Metall/Bodenschätze;0
+3;Energy and Utilities;Energie-/Wasserversorgung;0
+4;Construction - Industrial Facilities and Infrastructure;Anlagen-/Maschinenbau;0
+6;Aerospace and Defense;Luft-/Raumfahrt;0
+7;Automotive and Parts Mfg;Fahrzeugbau/Kfz-Zulieferer;0
+8;Biotechnology/Pharmaceuticals;Biotechnik/Pharmazie;0
+9;Chemicals/Petro-Chemicals;Chemie/Rohölprodukte/Kunststoff;0
+10;Consumer Packaged Goods Manufacturing;Konsumgüter/Kosmetik;0
+11;Electronics, Components, and Semiconductor Mfg;Elektrotechnik & Zubehör/Optik;0
+12;Manufacturing - Other;Sonstige Produktion;0
+13;Printing and Publishing;Druck/Papier/Verpackung;0
+14;Clothing and Textile Manufacturing;Textil/Leder/Bekleidung;0
+15;Wholesale Trade/Import-Export;Gross-/Außenhandel;0
+17;Retail;Einzelhandel;0
+18;Travel, Transportation and Tourism;Reisen/Personenbeförderung/Tourismus;0
+19;Transport and Storage - Materials;Transport/Lagerhaltung/Logistikdienstleistungen;0
+20;Internet Services;Internet-Dienstleistungen/Portale/ Datenverarbeitung;0
+21;Broadcasting, Music, and Film;Rundfunk/Musik/Film/TV/Verlag;0
+22;Telecommunications Services;Telekommunikation/Wireless/ Dienstleistungen;0
+23;Banking;Bankdienstleistungen;0
+24;Insurance;Versicherungen;0
+26;Real Estate/Property Management;Immobilien;0
+27;Rental Services;Vermietung/Leasing;0
+28;Accounting and Auditing Services;Buchhaltung/Steuer- und Prüfungswesen;0
+29;Advertising and PR Services;Werbung/Marketing/PR/Messen/Ausstellungen und Events;0
+30;Architectural and Design Services;Architektur/Design;0
+31;Management Consulting Services;Unternehmensberatung;0
+32;Computer Hardware;IT-Hardware - Programmierung/Design;0
+33;Computer Software;IT-Software - Systeme/Design;0
+34;Legal Services;Rechtsdienstleistungen/-beratung;0
+37;Waste Management;Abfallwirtschaft;0
+38;Education;Erziehung/Aus- & Weiterbildung;0
+39;Healthcare Services;Gesundheitswesen;0
+42;Performing and Fine Arts;Kunst/Kultur;0
+43;Sports and Physical Recreation;Sport/Erholung;0
+44;Hotels and Lodging;Hotel/Unterkunft;0
+45;Restaurant/Food Services;Restaurant/Gastronomie;0
+46;Staffing/Employment Agencies;Personalberatung/Arbeitsvermittlung;0
+47;Nonprofit Charitable Organizations;Gemeinnützig;0
+48;Personal and Household Services;Haushaltsdienstleistungen;0
+50;Government and Military;Öffentlicher Dienst;0
+74;Security and Surveillance;Sicherheitsdienste/Überwachung;0
+75;Automotive Sales and Repair Services;Autohandel/Kfz-Werkstätten;0
+76;Business Services - Other;Technische & kaufmännische Dienstleistungen;0
+77;Computer/IT Services;IT-Dienstleistungen/EDV-Schulung;0
+78;Construction - Residential & Commercial/Office;Bau/Baustoffhandel;0
+79;Engineering Services;Ingenieurdienstleistungen;0
+80;Entertainment Venues and Theaters;Unterhaltung - Theater/Museen/Freizeitparks;0
+81;Financial Services;Finanzdienstleistungen;0
+82;Food and Beverage Production;Nahrungs-/Genußmittel;0
+83;Marine Mfg & Services;Schifffahrt/Schiffbau/Schiffbauzulieferindustrie;0
+84;Medical Devices and Supplies;Medizintechnik;0
+85;Other/Not Classified;Sonstige Branchen;0
