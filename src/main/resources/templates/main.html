@@ -1,18 +1,47 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
+    <link th:href="@{/css/main.css}" rel="stylesheet" type="text/css"/>
+
     <meta charset="UTF-8">
     <title>Title</title>
 </head>
 <body>
-<h1>Kundennummer</h1>
-<h1>KundennameVorNach</h1>
-<h1>Anzahl der Produkte</h1>
-<input type="number">
-<h1>Produkt Name</h1>
-<textarea rows="4" cols="50">
-</textarea>
-<h1>Preis</h1>
-<input type="number"> €
+
+<table rules="all" style="background:#fff;">
+    <tr>
+        <td style="font-size:14px;" >Anzahl</td>
+        <td style="font-size:14px;">Name</td>
+        <td style="font-size:14px;">Preis</td>
+        <td><span style="font:normal 12px agency, arial; color:blue; text-decoration:underline; cursor:pointer;" onclick="addMoreRows(this.form);">
+Add More
+</span>
+        </td>
+    </tr>
+    <tr id="rowId">
+        <td><input name="" type="text"  value="" size="17%"/></td>
+        <td><input name="" type="text"  value="" /></td>
+        <td><input name="" type="text"  value="" /></td>
+</table>
+<div id="addedRows"></div>
+</td>
+</tr>
+
+<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.min.js"></script>
+<script type="text/javascript">
+    var rowCount = 1;
+    function addMoreRows(frm) {
+        rowCount ++;
+        var recRow = '<p id="rowCount'+rowCount+'">' +
+            '<tr><td><input name="" type="text" size="17%"  maxlength="120" /></td><td><input name="" type="text"  maxlength="120" style="margin: 4px 5px 0 5px;"/></td><td><input name="" type="text" maxlength="120" style="margin: 4px 10px 0 0px;"/></td></tr> <a href="javascript:void(0);" onclick="removeRow('+rowCount+');">Delete</a></p>';
+        jQuery('#addedRows').append(recRow);
+    }
+
+    function removeRow(removeNum) {
+        jQuery('#rowCount'+removeNum).remove();
+    }
+</script>
+
+<button type="submit">Bestätigen</button>
 </body>
 </html>
